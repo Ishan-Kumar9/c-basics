@@ -1,0 +1,1 @@
+int Lift::topFloor = 6;
